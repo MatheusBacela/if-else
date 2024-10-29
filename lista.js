@@ -7,6 +7,8 @@ function submit()
     var name3=document.getElementById("nomeestudante3").value;
     var name4=document.getElementById("nomeestudante4").value;
 
+    //teste
+
     nomesdosestudantes.push(name1);
     nomesdosestudantes.push(name2);
     nomesdosestudantes.push(name3);
